@@ -1,0 +1,6 @@
+resource_group_name = "example-rg"
+location            = "east"
+vnet_name           = "example-vnet"
+vnet_cidr           = "10.0.0.0/16"
+subnet_name         = "example-subnet"
+subnet_cidr         = "10.0.1.0/24"
